@@ -59,7 +59,7 @@ const members = [
   {
     name: "Azhar Khairullah",
     faculty: "Sistem Informasi",
-    img: "./assets/member/.jpg",
+    img: "./assets/member/Azhar.png",
     logo: "./assets/iconcampus/kuningan.png"
   },
   {
@@ -102,7 +102,7 @@ const members = [
   {
     name: "Khasna Kamila",
     faculty: "Sastra Rusia",
-    img: "./assets/member/.jpg",
+    img: "./assets/member/khasna.png",
     logo: "./assets/iconcampus/unpad.png"
   },
   {
@@ -255,7 +255,7 @@ export default function MemberCarousel() {
                   fontSize="md"
                   color="white"
                   textShadow="0px 2px 6px rgba(0,0,0,0.8)"
-                >http://localhost:5173/
+                >
                   {member.name}
                 </Text>
               </VStack>

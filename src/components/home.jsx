@@ -18,7 +18,7 @@ const HomeSection = () => {
       justifyContent="center"
       alignItems="center"
     >
-    <Image src="/assets/logo/Lancangkuning.png" maxW={{ base: "100px", md: "200px", lg: "300px" }} alt="Logo Lancang Kuning" />
+    <Image src="../../public/assets/logo/Lancangkuning.png" maxW={{ base: "100px", md: "200px", lg: "300px" }} alt="Logo Lancang Kuning" />
       <Text fontSize="4xl" mb={2} fontFamily="Poppins">
         Lancang Kuning
       </Text>
