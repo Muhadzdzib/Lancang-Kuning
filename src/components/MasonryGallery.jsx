@@ -14,46 +14,34 @@ const photos = [
 
   "./assets/img/1.jpg",
   "./assets/img/2.jpg",
-  "./assets/img/3.jpg",
-  "./assets/img/4.JPG",
-  "./assets/img/5.JPG", 
-  "./assets/img/6.jpg",
+  "./assets/img/5.jpg", 
 
   "./assets/img/7.jpg",
-  "./assets/img/8.jpg",
   "./assets/img/9.jpg",
   "./assets/img/10.jpg",
-  "./assets/img/11.JPG", 
-  "./assets/img/12.JPG",
+  "./assets/img/11.jpg", 
+  "./assets/img/12.jpg",
 
   "./assets/img/13.jpg",
-  "./assets/img/14.JPG",
-  "./assets/img/15.JPG",
-  "./assets/img/16.JPG",
-  "./assets/img/17.JPG", 
-  "./assets/img/18.JPG",
-
-  "./assets/img/19.JPG",
-  "./assets/img/20.JPG",
-  "./assets/img/21.JPG",
-  "./assets/img/22.JPG",
-  "./assets/img/23.JPG", 
-  "./assets/img/24.JPG",
-
-  "./assets/img/25.JPG",
-  "./assets/img/26.JPG",
-  "./assets/img/27.JPG",
-  "./assets/img/28.JPG",
-  "./assets/img/29.JPG", 
-  "./assets/img/30.JPG",
-
+  "./assets/img/14.jpg",
+  "./assets/img/16.jpg",
+  "./assets/img/17.jpg", 
+  "./assets/img/18.jpg",
+  "./assets/img/29.jpg",
+  "./assets/img/19.jpg",
+  "./assets/img/24.jpg",
   "./assets/img/31.jpg",
   "./assets/img/32.jpg",
+    "./assets/img/26.jpg",
+ 
+  "./assets/img/30.jpg",
   "./assets/img/33.jpeg",
+  "./assets/img/35.jpeg",
   "./assets/img/34.jpeg",
+  "./assets/img/25.jpg",
 
-  
-  "./assets/img/design9.gif",
+
+
 
 
 

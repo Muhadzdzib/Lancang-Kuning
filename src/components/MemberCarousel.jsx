@@ -59,7 +59,7 @@ const members = [
   {
     name: "Azhar Khairullah",
     faculty: "Sistem Informasi",
-    img: "./assets/member/Azhar.png",
+    img: "./assets/member/azhar.jpg",
     logo: "./assets/iconcampus/kuningan.png"
   },
   {
@@ -99,12 +99,7 @@ const members = [
     img: "./assets/member/milan.jpg",
     logo: "./assets/iconcampus/unesa.png"
   },
-  {
-    name: "Khasna Kamila",
-    faculty: "Sastra Rusia",
-    img: "./assets/member/khasna.png",
-    logo: "./assets/iconcampus/unpad.png"
-  },
+  
   {
     name: "Fitriyah",
     faculty: "Prodi ?",
@@ -124,6 +119,14 @@ const members = [
     img: "./assets/member/icy.jpg",
     logo: "./assets/iconcampus/unbl.png"
   },
+
+  {
+    name: "Khasna Kamila",
+    faculty: "Prodi ?",
+    img: "./assets/member/khasna.jpg",
+    logo: "./assets/iconcampus/unesa.png"
+  },
+
   {
     name: "Nur Alia",
     faculty: "Prodi ?",

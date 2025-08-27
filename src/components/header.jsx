@@ -35,7 +35,7 @@ const Header = () => {
       <Flex justify="space-between" align="center">
         {/* Logo */}
         <Image
-          src="/assets/logo/Lancangkuning.png"
+          src="./assets/logo/Lancangkuning.png"
           maxW={{ base: "10", md: "25", lg: "50" }}
           alt="Logo Lancang Kuning"
         />
@@ -49,8 +49,8 @@ const Header = () => {
               smooth={true}
               duration={500}
               offset={-80}
-              spy={true}            // 👈 penting: memantau posisi scroll
-              activeClass="active"  // 👈 kasih class aktif
+              spy={true}           
+              activeClass="active"  
             >
               <Link
                 className="nav-link"

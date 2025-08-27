@@ -54,7 +54,7 @@ const InfiniteScrollIcons = () => {
   ];
 
   return (
-    <Box overflow="hidden" w="50%" mx="auto" py={6}>
+    <Box overflow="hidden" w="11.8%" mx="auto" py={6}>
       <Flex
         gap={12}
         animation={animation}
